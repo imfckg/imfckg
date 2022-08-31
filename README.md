@@ -1,2 +1,2 @@
-[![imfckg welcome header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=435&lines=Welcome+to+my+profile!;Extensive+experience+as+a+developer;More+than+8+years+of+remote+full-time;https%3A%2F%2Fcareer.habr.com%2Fimigunov)](https://career.habr.com/imigunov)
+[![imfckg welcome header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=600&lines=Welcome+to+my+profile!;Extensive+experience+as+a+developer;More+than+8+years+of+remote+full-time;https%3A%2F%2Fcareer.habr.com%2Fimigunov)](https://career.habr.com/imigunov)
 ![imfckg github stats](https://github-readme-stats.vercel.app/api?username=imfckg&show_icons=true&theme=radical&include_all_commits=true)
