@@ -7,3 +7,5 @@
     <a href="https://github.com/imfckg/imfckg/network/members"><img src="https://img.shields.io/github/forks/imfckg/imfckg.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=imfckg.imfckg" alt="visitors"/>   
 </p>
+
+My stack: python
