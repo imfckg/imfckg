@@ -4,6 +4,5 @@
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
     <a href="https://github.com/imfckg/imfckg/graphs/contributors"><img src="https://img.shields.io/github/contributors/imfckg/imfckg?color=blue"></a>
     <a href="https://github.com/imfckg/iprange/stargazers"><img src="https://img.shields.io/github/stars/imfckg/iprange.svg?logo=github"></a>
-    <a href="https://github.com/imfckg/imfckg/network/members"><img src="https://img.shields.io/github/forks/imfckg/imfckg.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=imfckg.imfckg" alt="visitors"/>   
 </p>
